@@ -1,0 +1,14 @@
+Switch acepta Integer, char, String
+Sentencia while
+    Ejecuta un bloque de codigo mientras se cumpla la condicion
+    Es una estructura de iteracion precondicion, primero evalua la expresion antes de ejecutar cualquier sentencia
+Sentencia do while
+    Similar al while, excepto en que la expresion se evalua al final del bucle, se ejecuta al menos una vez
+    Es una estructura de iteracion postcondicion, primero ejecutar la sentencia y al final evalua la condicion
+Sentencia for
+    Se utiliza cuando se conocen los limites del bucle
+
+
+Uso de etiquetas en las sentencias break y continue
+
+Modo depuracion
