@@ -1,0 +1,3 @@
+Java, hasta el valor 127, compara de forma automatica por el valor
+
+Un primitivo pasa un argumento por valor, no por referencia
